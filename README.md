@@ -60,7 +60,7 @@ A project currently under development, created as part of my journey to explore 
 More information and documentation will be added as the project evolves.
 
 <!-- Replace the link below if the Audora repository uses another address. -->
-[View repository](https://github.com/kawan-bastos/audora)
+[View repository](https://github.com/kawan-bastos/Audora-csharp)
 
 ## Focus Areas
 
