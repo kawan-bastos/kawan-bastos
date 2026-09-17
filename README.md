@@ -37,6 +37,15 @@ Software Engineering student focused on building practical applications, strengt
 
 ## Featured Projects
 
+### Ótica Visão de Piabetá
+
+A full-stack web platform I built for my father’s optical store. It combines a responsive eyewear catalog with customer accounts, favorites and 24-hour frame reservations, plus an admin panel for inventory, customers, sales, lens orders and reports. Customers browse online and complete purchases with the store team in person.
+
+**Tech:** C#, .NET 10, ASP.NET Core Razor Pages, PostgreSQL, Entity Framework Core, HTML, CSS, JavaScript, xUnit and Docker.
+
+[View repository](https://github.com/kawan-bastos/otica-visao)
+
+
 ### Macro do Butler
 
 A configurable Windows desktop application built with C# and Windows Forms.
